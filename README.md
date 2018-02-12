@@ -5,7 +5,7 @@
 
 ## Compiling FirstCryptoBank Wallet from source
 
-## Install library
+## Install library for Linux
 
 	sudo apt-get update
 	sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev  git
